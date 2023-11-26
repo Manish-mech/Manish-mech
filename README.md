@@ -1,4 +1,4 @@
-<img align = "right" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Snake animation" style="position: fixed; top: 0; right: 0; width: 300px; height: auto; transform: translate(50%, 0%); transform-origin: top right;">
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -9,13 +9,12 @@
 ###
 
 <p align="left">My name is Manish, and I'm a Cloud and Data Professional, from India.</p>
-
-###
+<img align = "right" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Snake animation" style="position: fixed; top: 0; right: 0; width: 300px; height: auto; transform: translate(50%, 0%); transform-origin: top right;">
 
 <p align="left"> <br>📚 I'm currently reading Psycho-Cybernetics <br>🎯 Goals: Becoming 1% better every day<br>🎲 Fun fact: 90% of the world's data was created in the last two years</p>
 
 ###
-
+###
 <h2 align="left">🛠️ Language and Tools</h2>
 
 ###
