@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/Manish-mech/Manish-mech/output/snake.svg" alt="Snake animation" />
-
+<img align = "right" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Snake animation" style="position: fixed; top: 0; right: 0; width: 300px; height: auto; transform: translate(50%, 0%); transform-origin: top right;">
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
